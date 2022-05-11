@@ -1,3 +1,3 @@
 The objective of the support vector machine algorithm is to find a hyperplane in an N-dimensional space(N — the number of features) that distinctly classifies the data points.
-<img width="467" alt="Capture" src="https://user-images.githubusercontent.com/77918472/167791559-8299ab57-b25c-4b25-bbd3-d7b981dfe137.PNG">
+
 To separate the two classes of data points, there are many possible hyperplanes that could be chosen. Our objective is to find a plane that has the maximum margin, i.e the maximum distance between data points of both classes. Maximizing the margin distance provides some reinforcement so that future data points can be classified with more confidence.
