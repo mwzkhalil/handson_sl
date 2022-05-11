@@ -1,1 +1,4 @@
-
+- Regression analysis is a statstical technique used to describe reletionship among varibales
+- The simplest case to examine is one in which a variable Y is refersed to as the dependent or target variable, may be related to one variable X  callled an independent varibale, or simply a regressor
+- If the explanation between X and Y is believed to be linear then the equation for a line may be appropriate: Y = β1 + β2 X, where β1 is an intercept term and β2 is slope coefficient 
+- In simplest term the purpose of regression is try to find the best fit line or equation that espress the reletionship between X and Y
