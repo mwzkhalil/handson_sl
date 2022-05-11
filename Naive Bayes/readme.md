@@ -1,1 +1,4 @@
-
+- A statistical classifier: perform probabilistic problems, i.e predict class membership probabilities
+- Foundation: Based on Bayes Therom 
+- Performance: A simple Bayesian classifier, naive bayesian classifier, has comparable performance with decission tree and selected neural network classifiers
+- Incremental: Each training example can incrementally increase/decrease the probability that a hypothesis is correct prior knowledge can be combined with observed data
